@@ -67,3 +67,17 @@ img{
     border-radius: 2rem;
     visibility: hidden;
 }
+.btn-div {
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    margin-top: 2rem;
+    margin-right: 2rem;
+}
+.btn{
+    font-size: 2rem;
+    background-color: #081b31;
+    color: white;
+    padding: 1.5rem;
+    border-radius: 1rem;
+}
