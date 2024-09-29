@@ -81,3 +81,6 @@ img{
     padding: 1.5rem;
     border-radius: 1rem;
 }
+.rtImg{
+    transform: rotate(-90deg);
+}
